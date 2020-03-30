@@ -2,7 +2,7 @@
 
 COVID19 android application to show all statistics about this global pandemic
 
-You can download the application from given link ( <a href="">Download APK</a> ) <br/>
+You can download the application from given link ( <a href="https://drive.google.com/file/d/1-QlQDUMYf8zaJbuxEF9uR3b4nZHTMZkR/view?usp=sharing">Download APK</a> ) <br/>
 
 It fetchs live data from <a href="https://corona.lmao.ninja/">https://corona.lmao.ninja/</a>.
 
