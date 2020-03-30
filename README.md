@@ -18,17 +18,19 @@ This application have two main section
 -> It has one spinner through which you can search any country name to get respective detail result.
 
 <p float = "left">
+<img src ="https://user-images.githubusercontent.com/20206625/77904908-f7730480-72a2-11ea-9642-c3453b298fff.jpg" width="290" height="550">
+  
+  <img src = "https://user-images.githubusercontent.com/20206625/77905131-59336e80-72a3-11ea-85fc-d16b618cd059.jpg"  width="290" height="550">
+  
 <img src ="https://user-images.githubusercontent.com/20206625/77904804-c7c3fc80-72a2-11ea-86e0-0e94cf903b88.jpg"  width="290" height="550">
   
 <img src ="https://user-images.githubusercontent.com/20206625/77904845-db6f6300-72a2-11ea-8fa1-a3329d475231.jpg"  width="290" height="550">
 
-<img src ="https://user-images.githubusercontent.com/20206625/77904908-f7730480-72a2-11ea-9642-c3453b298fff.jpg" width="290" height="550">
+
 <br/>
 <img src ="https://user-images.githubusercontent.com/20206625/77905003-21c4c200-72a3-11ea-966d-488587ffcd37.jpg"  width="290" height="550">
   
 <img src ="https://user-images.githubusercontent.com/20206625/77905081-46b93500-72a3-11ea-9c54-b16e5f9f6664.jpg"  width="290" height="550">
-
-<img src = "https://user-images.githubusercontent.com/20206625/77905131-59336e80-72a3-11ea-85fc-d16b618cd059.jpg"  width="290" height="550">
 
 
 </p>
