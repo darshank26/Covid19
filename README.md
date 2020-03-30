@@ -4,7 +4,9 @@ COVID19 android application to show all statistics about this global pandemic
 
 You can download the application from given link ( <a href="">Download APK</a> ) <br/>
 
-It fetchs the live data from <a href="https://corona.lmao.ninja/">https://corona.lmao.ninja/</a> this API
+It fetchs live data from <a href="https://corona.lmao.ninja/">https://corona.lmao.ninja/</a>.
+
+<br/>
 
 This application have two main section 
 
@@ -12,11 +14,11 @@ This application have two main section
 
 -> Where you will see list of countries data along with there Total Cases, Total Recovered Cases and Total Deaths.
 <br/>
--> All the country list is been sorted according to there Total Cases
+-> All the country list is been sorted according to there Total Cases.
 
 2. Country Report
 
--> It has one spinner through which you can search any country name to get respective detail result.
+-> It has one spinner through which you can search country name to get there respective detail.
 
 <p float = "left">
   
